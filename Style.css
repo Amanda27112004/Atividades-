@@ -1,0 +1,69 @@
+body{
+
+  background-color: rgb(85, 97, 112);
+
+}
+
+
+
+#menu_lateral {
+
+  visibility: hidden;
+
+  min-height: 100%;
+
+}
+
+.btn-menu {
+
+  width: 0px;
+
+  background-color: unset;
+
+  border: 0ch;
+
+  border-radius: 80px;
+
+}
+
+.titulo{
+
+  text-align: center;
+
+}
+
+.btn:active{
+
+  background-color: black;
+
+}
+
+.links{
+
+  font-size: ;
+
+}
+
+.divConteudo{
+
+  text-align: center;
+
+}
+
+p{
+
+  color: black;
+
+  font-size: 25px;
+
+  font-style: italic;
+
+}
+
+.links{
+
+  font-size: 20px;
+
+  font-style: italic;
+
+}
